@@ -2,7 +2,7 @@
 Author: Griffon2011 <black_griffon@mail.ru>
 Date:   Mon Mar 16 17:58:55 2015 +0400
 
-    new file
+    new fileфывафывафыв
 
 [33mcommit 5700ce020ab07d88a2fc5524d095536d8ab67cdb[m
 Author: Griffon2011 <black_griffon@mail.ru>
